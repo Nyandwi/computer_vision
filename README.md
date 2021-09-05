@@ -4,6 +4,7 @@
 This repository contains different computer visions projects: 
 
 * Image classification with Convolutional Neural Networks(CNNs)
+* Image segmentation
 * Neural style transfer
 * Object detection
 
