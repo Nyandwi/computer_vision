@@ -17,4 +17,4 @@ This repository contains different computer visions projects:
 **Credits**:
 
 * TensorFlow tutorials
-* Advanced DeepLearning.AI Specialization
+* Advanced TensorFlow DeepLearning.AI Specialization
