@@ -1,5 +1,5 @@
 
-# Computer Vision
+# Computer Vision Projects
 
 This repository contains different computer visions projects: 
 
@@ -16,5 +16,5 @@ This repository contains different computer visions projects:
 
 **Credits**:
 
-* TensorFlow tutorials
+* TensorFlow Hub
 * Advanced TensorFlow DeepLearning.AI Specialization
